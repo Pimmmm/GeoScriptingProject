@@ -13,11 +13,8 @@ One of the most notable causes for local increases in PM pollution are fireworks
 
 ------------------------User guide------------------------------  
 
-1.  
-2.  
-3.  
-
-----------------------------------------------------------------  
+1.  Run the main.sh to use the project.
+ 
 
 
 
